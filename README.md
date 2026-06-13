@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @adi0911-git
-- 👀 I’m interested in ...idk
-- 🌱 I’m currently learning ...nthng
-- 💞️ I’m looking to collaborate on ...smthing
-- 📫 How to reach me ...no need to reach me
-- 😄 Pronouns: ...idk
-- ⚡ Fun fact: ...all things
+👋 Hi, I'm Aditi Raj
 
-<!---
-adi0911-git/adi0911-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Aspiring Data Analyst passionate about Python, SQL, Excel, and Power BI
+
+📊 Interested in Data Analytics, Business Intelligence, and Machine Learning
+
+🌱 Currently learning advanced Data Analytics and real-world projects
+
+📂 Projects:
+
+- Sales Forecasting using SARIMA-X
+- Customer Segmentation Analysis
+- SQL Retail Database Analysis
+- AI-Based Financial Assistance System
+
+🛠️ Skills:
+Python | SQL | Power BI | Excel | Pandas | NumPy | Matplotlib
+
+📫 Reach me at: aditiraj0911@gmail.com
